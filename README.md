@@ -24,6 +24,7 @@ Contato via email: ricpedro.santos@gmail.com
   <img align="center" alt="Pedru-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
+  ##
   
  <div>
    
