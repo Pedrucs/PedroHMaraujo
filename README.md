@@ -2,7 +2,7 @@
 
 gosto de tecnologia. programação e afins.
 
-## CONTATO
+## Bora trocar ideia?
 
 email:ricpedro.santos@gmail.com <br>
 Instagram: @pedrucs__
