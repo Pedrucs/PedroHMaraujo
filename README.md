@@ -1,12 +1,15 @@
-## Olá! Eu sou Pedro Henrique Muniz Araujo.
+## Olá! Bem vindo ao meu perfil.
 
-Sou formado em Desenvolvimento de Sistemas (Fevereiro de 2019/Junho de 2020) pela ETEC de Poá.
+Formado em Desenvolvimento de Sistemas (ETEC)
+Futuro Bacharel em Ciência da Computação (UNIP)
+Estagiário na Visa
 
-Atualmente estudante de Ciência da Computação (Bacharel) pela Universidade Paulista (UNIP)
-Estudando árduamente Python, e a procura de um estágio na área de TI
+Se tiver interesse em trocar idéia sobre projetos, idéias ou
+somente conversar, pode entrar em contato comigo:
 
+Contato via email:ricpedro.santos@gmail.com 
+Instagram: @pedrucs__
 
-Contato via email: ricpedro.santos@gmail.com 
 
   ##
 
