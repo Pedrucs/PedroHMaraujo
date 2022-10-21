@@ -4,7 +4,8 @@ Formado em Desenvolvimento de Sistemas (ETEC),
 Futuro Bacharel em Ciência da Computação (UNIP), 
 Estagiário na Visa.
 
-e tiver interesse em trocar idéia sobre projetos, idéias ou
+<br>
+Se tiver interesse em trocar idéia sobre projetos, idéias ou <br>
 somente conversar, pode entrar em contato comigo:
 
 ##
