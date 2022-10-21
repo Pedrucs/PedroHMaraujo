@@ -1,8 +1,8 @@
-## Eae
+## oi
 
 gosto de tecnologia. programação e afins.
 
-## Bora trocar ideia?
+## contato
 
 email:ricpedro.santos@gmail.com <br>
 Instagram: @pedrucs__
