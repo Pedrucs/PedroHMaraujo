@@ -1,8 +1,4 @@
-## Olá! Bem vindo ao meu perfil.
-
-Formado em Desenvolvimento de Sistemas (ETEC) <br>
-Futuro Bacharel em Ciência da Computação (UNIP) <br>
-Estagiário na Visa <br>
+## Eae
 
 gosto de tecnologia. programação e afins.
 
