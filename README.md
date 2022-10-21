@@ -1,8 +1,8 @@
-## oi
+## Oi
 
-gosto de tecnologia. programação e afins.
+gosto de tecnologia. videogames, programação, super heróis e tal
 
-## contato
+## Contato
 
 email:ricpedro.santos@gmail.com <br>
 Instagram: @pedrucs__
