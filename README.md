@@ -1,14 +1,16 @@
 ## Olá! Bem vindo ao meu perfil.
 
 Formado em Desenvolvimento de Sistemas (ETEC), 
-## Futuro Bacharel em Ciência da Computação (UNIP), 
-## Estagiário na Visa,
+Futuro Bacharel em Ciência da Computação (UNIP), 
+Estagiário na Visa.
 
-Se tiver interesse em trocar idéia sobre projetos, idéias ou
-##somente conversar, pode entrar em contato comigo:
+e tiver interesse em trocar idéia sobre projetos, idéias ou
+somente conversar, pode entrar em contato comigo:
+
+##
 
 Contato via email:ricpedro.santos@gmail.com,
-## Instagram: @pedrucs__
+Instagram: @pedrucs__
 
 
   ##
