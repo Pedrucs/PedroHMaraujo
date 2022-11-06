@@ -1,10 +1,37 @@
 ## Oi
 
-gosto de tecnologia. videogames, programação, super heróis e tal
+Meu nome é Pedro, tenho 19 anos, sou apaixonado por Tecnologia e tudo relacionado a mesma. Também gosto de videogames, super heróis e carros.
+
+##Work & Studies
+Atualmente sou estagiário em uma empresa de tecnologia financeira, e utilizo muito de ferramentas microsoft, tais qual Excel e Dynamics 365. <br>
+
+Mas meus estudos estão mais voltados para a área de Data Science e Business Intelligence, estou estudando Big Data, ML (Machine Learning), Python, SQL e PowerBI.<br>
+
+## Formação
+Técnico formado de Desenvolvimento de Sistemas (3 semestres)<br>
+
+Disciplinas:
+
+Linguagem, Trabalho e Tecnologia <br>
+Banco de Dados (MySQL) <br>
+Análise e Período de Sistemas <br>
+Design Digital <br>
+Programação Web (PHP) <br>
+Fundamentos da Informática <br>
+Técnicas de Programação <br>
+Programação e Algoritmos <br>
+Inglês Instrumental <br>
+Desenvolvimento de Sistemas (C# e Java) <br>
+Internet e Protocolos <br>
+Programação de Aplicativos Mobile (Xamarin/C#) <br>
+Sistemas Embarcados <br>
+Qualidade e Teste de Software <br>
+Ética e Cidadania Organizacional <br>
+Segurança de Sistemas de Informação. <br>
 
 ## Contato
 
-email:ricpedro.santos@gmail.com <br>
+email: ricpedro.santos@gmail.com <br>
 Instagram: @pedrucs__
 
 
